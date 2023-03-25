@@ -117,7 +117,7 @@ $$
 \end{aligned}
 $$
 
-Hydejack uses KaTeX to efficiently render math.
+Hydejack uses [KaTeX] to efficiently render math.
 {:.figcaption}
 
 
@@ -137,19 +137,12 @@ If you are using a different service like MailChimp, you can build a custom news
 {% include table.md %}
 
 
-## Get It Now
-
-Use the the form below to purchase Hydejack PRO:
-
-<div class="gumroad-product-embed" data-gumroad-product-id="nuOluY"><a href="https://gumroad.com/l/nuOluY">Loading…</a></div>
-
-
 [blog]: /
-[portfolio]: https://hydejack.com/examples/
-[resume]: https://hydejack.com/resume/
-[download]: https://hydejack.com/download/
-[welcome]: https://hydejack.com/
-[forms]: https://hydejack.com/forms-by-example/
+[portfolio]: /
+[resume]: /
+[download]: /
+[welcome]: /
+[forms]: /
 
 [features]: #features
 [news]: #build-an-audience

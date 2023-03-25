@@ -28,7 +28,7 @@ description:           >
   The site description.
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:               The site tagline
 
 # A list of keywords for your blog
 keywords:              []
